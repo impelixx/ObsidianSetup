@@ -1,0 +1,305 @@
+{
+  "main": {
+    "id": "45e766490fd4a695",
+    "type": "split",
+    "children": [
+      {
+        "id": "09ae6a774a47a58d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a59721317c999878",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Class Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Class Template"
+            }
+          },
+          {
+            "id": "5362970268364cbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Информатика/Информатика.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Информатика"
+            }
+          },
+          {
+            "id": "8c25a75413dd21d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Билогия/Биология.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Биология"
+            }
+          },
+          {
+            "id": "0d79c6a3a9b455dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa8a17f30d927de5",
+    "type": "split",
+    "children": [
+      {
+        "id": "de141673587f50ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27bdf86ca44f07f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "5ad80da99c9e4ad4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "d9f4cc74d99bea2f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "73264425af582910",
+    "type": "split",
+    "children": [
+      {
+        "id": "4793e0272ec7e63c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2d0668531197b5d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для README"
+            }
+          },
+          {
+            "id": "d7d581f25fc995e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из README"
+            }
+          },
+          {
+            "id": "33dc93cd7eb36e6d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "d9ddc819d0753a2d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура README"
+            }
+          },
+          {
+            "id": "21466ae779615458",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "e2c7b6f5983b530f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "b1d61f2a0f8b2c19",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "029960fce8620048",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          },
+          {
+            "id": "40c14b5c6bdf8f12",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "workspaces:Пространства": false,
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0d79c6a3a9b455dd",
+  "lastOpenFiles": [
+    "School/Билогия/Биология.md",
+    "README.md",
+    "School/Астрономия/Астрономия.md",
+    "Home.md",
+    "Programming/Алгосы-и-Структуры/algoHome.md",
+    "School/Информатика/ООП.md",
+    "School/Информатика/Информатика.md",
+    "School/История/История.md",
+    "Programming/Web/webHome.md",
+    "Programming/Python/pythonHome.md",
+    "Programming/Алгосы-и-Структуры/БинПоиск.md",
+    "Templates/Home Template.md",
+    "Templates/Без названия",
+    "School/История/СССР.md",
+    "School/История/Без названия.md",
+    "Templates/Reference Template.md",
+    "Templates/Default Template.md",
+    "Templates/Daily Template.md",
+    "Templates/Course Template.md",
+    "Templates/Book Template.md",
+    "Templates/Class Template.md",
+    "School/История",
+    "School/Без названия.md",
+    "Cache/Без названия.md",
+    "Templates/Planner Template.md",
+    "Cache/Без названия 1.md",
+    "programming/python/pythonHome.md",
+    "programming/web/webHome.md",
+    "Programming/Алгосы-и-Структуры",
+    "programming/Алгосы-и-Структуры",
+    "learning",
+    "Cache/1710456902IPGIPLPIFG.jpg",
+    "Thinking",
+    "Programming/Web",
+    "Programming/Python",
+    "School/Информатика",
+    "School/Билогия",
+    "Информатика/Без названия.canvas"
+  ]
+}

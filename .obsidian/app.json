@@ -1,0 +1,12 @@
+{
+  "attachmentFolderPath": "Cache",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "newFileFolderPath": "Cache",
+  "spellcheck": false,
+  "userIgnoreFilters": [
+    "Templates/",
+    "Cache/"
+  ]
+}

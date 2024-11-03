@@ -1,0 +1,30 @@
+.markdown-preview-view h1 {
+    color: #4CAF50; /* Основной заголовок */
+    font-size: 2rem;
+    margin-top: 0.5em;
+}
+
+.markdown-preview-view h2 {
+    color: #2196F3; /* Подзаголовки */
+    font-size: 1.5rem;
+    margin-top: 1em;
+}
+
+.markdown-preview-view ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.markdown-preview-view li {
+    margin-bottom: 0.3em;
+}
+
+.markdown-preview-view a {
+    color: #FF5722;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.markdown-preview-view a:hover {
+    text-decoration: underline;
+}
