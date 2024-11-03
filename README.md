@@ -3,5 +3,7 @@
 - Class Template
 - Home Template
 Остальные шаблоны в разработке
-Для работы нужно установить плагины
+## Для работы нужно установить плагины
 - Dataview и включить там JS queries
+## Вопросы и поддержка
+[impelix](https://t.me/seniorProcrastinator)
